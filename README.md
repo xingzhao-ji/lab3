@@ -30,7 +30,7 @@ Average response time: 3.25
 ```
 
 ## Cleaning up
-To clean up the binary created, use this command
+To clean up and remove the executables created, use this command
 ```shell
 make clean
 ```
