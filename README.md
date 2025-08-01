@@ -20,7 +20,7 @@ xingzhaoji@Xingzhaos-MacBook-Air lab3 % cat processes.txt
 3, 4, 1
 4, 5, 4
 ```
-2. Run the scheduler with the file name and an initial quantum:
+2. Run the scheduler with the file name and an initial quantum (example 4):
 ```shell
 xingzhaoji@Xingzhaos-MacBook-Air lab3 % ./rr processes.txt 4
 ```
