@@ -13,7 +13,7 @@ make
 
 1. Create a workload file (example processes.txt):
 ```shell
-xingzhaoji@Xingzhaos-MacBook-Air lab3 % cat processes.txt
+cat processes.txt
 4
 1, 0, 7
 2, 2, 4
@@ -22,7 +22,7 @@ xingzhaoji@Xingzhaos-MacBook-Air lab3 % cat processes.txt
 ```
 2. Run the scheduler with the file name and an initial quantum (example 4):
 ```shell
-xingzhaoji@Xingzhaos-MacBook-Air lab3 % ./rr processes.txt 4
+./rr processes.txt 4
 ```
 3. results:
 ```shell
