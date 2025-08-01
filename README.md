@@ -13,7 +13,6 @@ make
 
 1. Create a workload file (example processes.txt):
 ```shell
-cat processes.txt
 4
 1, 0, 7
 2, 2, 4
